@@ -1,0 +1,20 @@
+body {
+	margin: 30px;
+	padding-top: 20px;
+	padding-left: 50px;
+	border-style: groove;
+	background-color: #4a5f70;
+	color: #FFFFFF;
+}
+
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 50px;
+	color: #FFFFFF;
+}
+
+h2 {
+	font-size: 18px;
+	color: #FFFFFF;
+}
