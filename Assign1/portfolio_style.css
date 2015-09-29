@@ -35,7 +35,15 @@ html {
 
 .menu > a:hover {
 	font-weight: bold;
-	
+}
+
+.flexbox {
+
+}
+
+.flexbox img {
+	max-height: 200px;
+	max-width: 120px;
 }
 
 h2 {
