@@ -26,6 +26,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 http://www.w3schools.com/css/css_background.asp
 http://www.webmonkey.com/2010/02/html_cheatsheet/#Links
 http://www.lesliefranke.com/files/reference/csscheatsheet.html
+http://www.rapidtables.com/web/dev/html-redirect.htm
 
 
 
